@@ -14,7 +14,7 @@ A specialized web tool designed to convert formatted text lines into executable 
 
 ---
 
-## 📖 Data Input Formatting Guide (Шпаргалка)
+## 📖 Data Input Formatting Guide
 
 To generate books correctly, use the following formatting syntax in the input field:
 
