@@ -1,10 +1,31 @@
 Language Selection / Выбор языка: 🇷🇺 [Русский](README.ru.md) | 🇬🇧 [English](README.md) | 🇨🇳 [中文](README.zh.md) | 🇯🇵 [日本語](README.ja.md)
-# mc-1.12.2-book-generator
-A web tool that converts plain text into Minecraft 1.12.2 .mcfunction files for mass-spawning multi-page books.
+# Minecraft 1.12.2 Multi-Page Book Generator
 
-
-# Multi-page Book Generator for Minecraft 1.12.2
-
-A specialized web tool for converting formatted text strings into executable Minecraft scripts (`.mcfunction`), allowing for the mass creation of custom multi-page books within the game.
+A specialized web tool designed to convert formatted text lines into executable Minecraft `.mcfunction` scripts for mass-spawning custom, multi-page in-game books.
 
 > ⚠️ **Important:** This generator uses command syntax designed exclusively for **Minecraft 1.12.2**. It is not compatible with newer versions of the game due to changes in command formatting (introduced in version 1.13).
+
+---
+
+## 📖 Data Input Formatting Guide (Шпаргалка)
+
+To generate books correctly, use the following formatting syntax in the input field:
+
+* **Line Breaks (Abzats):** `1 line = 1 book`. If you want to make a line break inside the book page text, use the `\n` symbol.
+* **Page Splitting:** Separate pages using the vertical bar symbol `|`. The script will automatically create the necessary pages in the game.
+* **General Format:** `Author;Title;Page 1 Text | Page 2 Text`
+
+---
+
+## 🤖 Helpful AI Tools for Lore Generation
+
+If you need tons of high-quality lore text to fill your in-game library, you can use these privacy-safe and free AI assistants to write your books:
+
+* **AI Collaborator: Gemini** — Perfect for mass text generation and creative book writing.
+* **Safe Text Generator: NoTrack AI** — Anonymous text generator. Ideal for mass-creating quests, dialogues, and books without tracking, hidden subscriptions, or data collection.
+
+---
+
+## ⚖️ License
+This project is open-source and available under the [MIT License](LICENSE).
+
