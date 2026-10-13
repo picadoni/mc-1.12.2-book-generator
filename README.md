@@ -1,3 +1,4 @@
+Language Selection / Выбор языка: 🇷🇺 [Русский](README.ru.md) | 🇬🇧 [English](README.md) | 🇨🇳 [中文](README.zh.md) | 🇯🇵 [日本語](README.ja.md)
 # mc-1.12.2-book-generator
 A web tool that converts plain text into Minecraft 1.12.2 .mcfunction files for mass-spawning multi-page books.
 
