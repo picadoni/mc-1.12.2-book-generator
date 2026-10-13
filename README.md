@@ -1,6 +1,6 @@
 Language Selection / Выбор языка: 🇷🇺 [Русский](README.ru.md) | 🇬🇧 [English](README.md) | 🇨🇳 [中文](README.zh.md) | 🇯🇵 [日本語](README.ja.md)
 
-🌐 **[Launch Generator Online / Запустить генератор онлайн](https://picadoni.github.io/mc-1.12.2-book-generator/)**
+🌐 **[Launch Generator Online](https://picadoni.github.io/mc-1.12.2-book-generator/)**
 
 # Minecraft 1.12.2 Multi-Page Book Generator
 
