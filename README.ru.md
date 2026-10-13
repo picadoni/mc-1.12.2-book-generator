@@ -1,6 +1,6 @@
 Language Selection / Выбор языка: 🇷🇺 [Русский](README.ru.md) | 🇬🇧 [English](README.md) | 🇨🇳 [中文](README.zh.md) | 🇯🇵 [日本語](README.ja.md)
 
-🌐 **[Запустить генератор онлайн](СЮДА_ВСТАВЬТЕ_ВАШУ_ССЫЛКУ)**
+🌐 **[Запустить генератор онлайн](https://picadoni.github.io/mc-1.12.2-book-generator/)**
 
 # Генератор многостраничных книг для Minecraft 1.12.2
 
