@@ -1,6 +1,9 @@
 Language Selection / Выбор языка: 🇷🇺 [Русский](README.ru.md) | 🇬🇧 [English](README.md) | 🇨🇳 [中文](README.zh.md) | 🇯🇵 [日本語](README.ja.md)
 
+🌐 **[オンラインでジェネレーターを起動する (Launch Online)](https://picadoni.github.io/mc-1.12.2-book-generator/)**
+
 # Minecraft 1.12.2 複数ページ本ジェネレーター
+
 わずか1つのコマンドを実行するだけで、一度に多くの本を生成できる .mcfunction スクリプト作成用完全独立ツール。
 
 フォーマットされたテキスト行を、カスタムの複数ページ本をゲーム内で大量に生成するための実行可能な Minecraft `.mcfunction` スクリプトに変換するために設計された専用のウェブツールです。
