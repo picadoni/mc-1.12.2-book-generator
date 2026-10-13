@@ -1,6 +1,9 @@
 Language Selection / Выбор языка: 🇷🇺 [Русский](README.ru.md) | 🇬🇧 [English](README.md) | 🇨🇳 [中文](README.zh.md) | 🇯🇵 [日本語](README.ja.md)
 
+🌐 **[在线运行生成器 (Launch Online)](https://picadoni.github.io/mc-1.12.2-book-generator/)**
+
 # Minecraft 1.12.2 多页书籍生成器
+
 一个完全独立的工具，用于创建 .mcfunction 脚本，只需执行一条指令即可批量生成多本游戏内书籍。
 
 这是一个专门的网页工具，旨在将格式化的文本行转换为可执行的 Minecraft `.mcfunction` 脚本，以便批量生成自定义的多页游戏内书籍。
