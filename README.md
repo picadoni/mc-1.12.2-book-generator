@@ -1,3 +1,7 @@
+Language Selection / Выбор языка: 🇷🇺 [Русский](README.ru.md) | 🇬🇧 [English](README.md) | 🇨🇳 [中文](README.zh.md) | 🇯🇵 [日本語](README.ja.md)
+
+🌐 **[Запустить генератор онлайн](https://picadoni.github.io/mc-1.12.2-book-generator/)**
+
 # Minecraft 1.12.2 Multi-Page Book Generator
 
 A fully autonomous, offline-ready web constructor designed to convert formatted text lines into executable Minecraft `.mcfunction` scripts. With this tool, you can mass-spawn custom, multi-page in-game books using just **a single command**.
