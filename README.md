@@ -44,5 +44,10 @@ To generate books correctly, use the following formatting syntax in the input fi
 
 ---
 
+AI Collaborator: Gemini — Perfect for mass text generation and creative book writing.
+Safe Text Generator: NoTrack AI — Anonymous text generator. Ideal for mass-creating quests, dialogues, and books without tracking, hidden subscriptions, or data collection.
+
+---
+
 ### ⚖️ License
 This project is open-source and distributed under the [MIT License](https://opensource.org).
