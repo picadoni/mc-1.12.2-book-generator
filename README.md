@@ -52,7 +52,7 @@ To generate books correctly, use the following formatting syntax in the input fi
 
 If you need tons of high-quality lore text to fill your in-game library, you can use these privacy-safe and free AI assistants to write your books:
 
-* **AI Collaborator: Gemini** — Perfect for mass text generation and creative book writing.
+* **AI: Gemini** — Perfect for mass text generation and creative book writing.
 * **Safe Text Generator: NoTrack AI** — Anonymous text generator. Ideal for mass-creating quests, dialogues, and books without tracking, hidden subscriptions, or data collection.
 
 ---
